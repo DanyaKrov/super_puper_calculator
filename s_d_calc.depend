@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1637786221 source:c:\users\user\documents\github\super_puper_calculator\check.cpp
+	"header.h"
+
+1637786892 c:\users\user\documents\github\super_puper_calculator\header.h
+	<iostream>
+	<string>
+	<vector>
+
+1637786221 source:c:\users\user\documents\github\super_puper_calculator\itc_len.cpp
+	"header.h"
+
+1637786221 source:c:\users\user\documents\github\super_puper_calculator\itc_pow.cpp
+	"header.h"
+
+1637787983 source:c:\users\user\documents\github\super_puper_calculator\main.cpp
+	"header.h"
+
+1637786246 source:c:\users\user\documents\github\super_puper_calculator\toint.cpp
+	"header.h"
+
+1637786221 source:c:\users\user\documents\github\super_puper_calculator\tostr.cpp
+	"header.h"
+
+1637786892 source:c:\users\user\documents\github\super_puper_calculator\itc_find.cpp
+	"header.h"
+
+1637786876 source:c:\users\user\documents\github\super_puper_calculator\operator.cpp
+	"header.h"
+

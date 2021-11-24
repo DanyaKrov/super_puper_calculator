@@ -32,8 +32,13 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="check.cpp" />
 		<Unit filename="header.h" />
+		<Unit filename="itc_find.cpp" />
+		<Unit filename="itc_len.cpp" />
+		<Unit filename="itc_pow.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="operator.cpp" />
 		<Unit filename="toInt.cpp" />
 		<Unit filename="toStr.cpp" />
 		<Extensions />
