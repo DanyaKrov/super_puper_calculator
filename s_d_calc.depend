@@ -28,3 +28,32 @@
 1637786876 source:c:\users\user\documents\github\super_puper_calculator\operator.cpp
 	"header.h"
 
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\check.cpp
+	"header.h"
+
+1637788107 c:\users\uchenik\desktop\super_puper_calculator-main\header.h
+	<iostream>
+	<string>
+	<vector>
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\itc_find.cpp
+	"header.h"
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\itc_len.cpp
+	"header.h"
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\itc_pow.cpp
+	"header.h"
+
+1637823468 source:c:\users\uchenik\desktop\super_puper_calculator-main\main.cpp
+	"header.h"
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\operator.cpp
+	"header.h"
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\toint.cpp
+	"header.h"
+
+1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\tostr.cpp
+	"header.h"
+

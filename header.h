@@ -13,5 +13,7 @@ bool checking(string str);
 string Operator(string str1, string str2, string op);
 long long itc_pow(int number, int number2);
 int itc_find_str(string str1, string str2);
+vector<int> vecRev(vector<int> vec1);
+vector<int> sum(vector<int> vec1, vector<int> vec2);
 
 #endif // HEADER_H_INCLUDED
