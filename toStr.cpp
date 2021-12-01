@@ -1,6 +1,6 @@
 #include "header.h"
 
-string toStr(long long num){
+string toStr(int num){
     string res = "", result = ""; int number;
     if (num == 0){
         return "0";

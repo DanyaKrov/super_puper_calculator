@@ -37,10 +37,18 @@
 		<Unit filename="itc_find.cpp" />
 		<Unit filename="itc_len.cpp" />
 		<Unit filename="itc_pow.cpp" />
+		<Unit filename="itc_slice.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="noZero.cpp" />
+		<Unit filename="normal_str.cpp" />
 		<Unit filename="operator.cpp" />
+		<Unit filename="strRev.cpp" />
+		<Unit filename="subtr.cpp" />
+		<Unit filename="sum.cpp" />
 		<Unit filename="toInt.cpp" />
 		<Unit filename="toStr.cpp" />
+		<Unit filename="toVec.cpp" />
+		<Unit filename="vecRev.cpp" />
 		<Extensions />
 	</Project>
 </CodeBlocks_project_file>
