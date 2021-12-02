@@ -81,3 +81,56 @@
 1638399528 source:c:\users\user\documents\github\super_puper_calculator\nozero.cpp
 	"header.h"
 
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\check.cpp
+	"header.h"
+
+1638399588 c:\users\uchenik\desktop\super_puper_calculator-string_sol\header.h
+	<iostream>
+	<string>
+	<vector>
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\itc_find.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\itc_len.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\itc_pow.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\itc_slice.cpp
+	"header.h"
+
+1638426846 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\main.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\normal_str.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\nozero.cpp
+	"header.h"
+
+1638426846 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\operator.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\strrev.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\subtr.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\sum.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\toint.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\tostr.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\tovec.cpp
+	"header.h"
+
+1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\vecrev.cpp
+	"header.h"
+

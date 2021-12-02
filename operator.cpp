@@ -12,10 +12,10 @@ string Operator(string str1, string str2, string op){
     }
     if (itc_find_str(op, "+") != -1){
         if (conf == 2)
-            return "-" + sum(str1, str2);
+            return "-" + noZero(sum(str1, str2));
         if (conf == 1)
-            return subtr(str1, str2);
-        return sum(str1, str2);
+            return noZero(subtr(str1, str2));
+        return noZero(sum(str1, str2));
     }
     else if (itc_find_str(op, "-") != -1)
         return noZero(subtr(str1, str2));
