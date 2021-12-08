@@ -39,6 +39,7 @@
 		<Unit filename="itc_pow.cpp" />
 		<Unit filename="itc_slice.cpp" />
 		<Unit filename="main.cpp" />
+		<Unit filename="neg_situations.cpp" />
 		<Unit filename="noZero.cpp" />
 		<Unit filename="normal_str.cpp" />
 		<Unit filename="operator.cpp" />

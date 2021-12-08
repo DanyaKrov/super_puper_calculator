@@ -21,6 +21,6 @@ string normal_str(string str, int len);
 string subtr(string str1, string str2);
 string itc_slice_str(string str, int start, int end);
 string noZero(string str);
-string neg(string str1, string str2);
+string neg(string str1, string str2, string oper);
 
 #endif // HEADER_H_INCLUDED

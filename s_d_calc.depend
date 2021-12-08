@@ -1,31 +1,31 @@
 # depslib dependency file v1.0
-1638397625 source:c:\users\user\documents\github\super_puper_calculator\check.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\check.cpp
 	"header.h"
 
-1638398177 c:\users\user\documents\github\super_puper_calculator\header.h
+1639004656 c:\users\user\documents\github\super_puper_calculator\header.h
 	<iostream>
 	<string>
 	<vector>
 
-1637826358 source:c:\users\user\documents\github\super_puper_calculator\itc_len.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\itc_len.cpp
 	"header.h"
 
-1637826358 source:c:\users\user\documents\github\super_puper_calculator\itc_pow.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\itc_pow.cpp
 	"header.h"
 
-1638399392 source:c:\users\user\documents\github\super_puper_calculator\main.cpp
+1639004656 source:c:\users\user\documents\github\super_puper_calculator\main.cpp
 	"header.h"
 
-1638392419 source:c:\users\user\documents\github\super_puper_calculator\toint.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\toint.cpp
 	"header.h"
 
-1638392174 source:c:\users\user\documents\github\super_puper_calculator\tostr.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\tostr.cpp
 	"header.h"
 
-1638398141 source:c:\users\user\documents\github\super_puper_calculator\itc_find.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\itc_find.cpp
 	"header.h"
 
-1638399428 source:c:\users\user\documents\github\super_puper_calculator\operator.cpp
+1639004656 source:c:\users\user\documents\github\super_puper_calculator\operator.cpp
 	"header.h"
 
 1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\check.cpp
@@ -57,28 +57,28 @@
 1637788107 source:c:\users\uchenik\desktop\super_puper_calculator-main\tostr.cpp
 	"header.h"
 
-1638394564 source:c:\users\user\documents\github\super_puper_calculator\sum.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\sum.cpp
 	"header.h"
 
-1638390009 source:c:\users\user\documents\github\super_puper_calculator\vecrev.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\vecrev.cpp
 	"header.h"
 
-1638389119 source:c:\users\user\documents\github\super_puper_calculator\tovec.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\tovec.cpp
 	"header.h"
 
-1638391363 source:c:\users\user\documents\github\super_puper_calculator\strrev.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\strrev.cpp
 	"header.h"
 
-1638394432 source:c:\users\user\documents\github\super_puper_calculator\normal_str.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\normal_str.cpp
 	"header.h"
 
-1638398141 source:c:\users\user\documents\github\super_puper_calculator\subtr.cpp
+1639004619 source:c:\users\user\documents\github\super_puper_calculator\subtr.cpp
 	"header.h"
 
-1638398141 source:c:\users\user\documents\github\super_puper_calculator\itc_slice.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\itc_slice.cpp
 	"header.h"
 
-1638399528 source:c:\users\user\documents\github\super_puper_calculator\nozero.cpp
+1638783880 source:c:\users\user\documents\github\super_puper_calculator\nozero.cpp
 	"header.h"
 
 1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\check.cpp
@@ -132,5 +132,8 @@
 	"header.h"
 
 1638399588 source:c:\users\uchenik\desktop\super_puper_calculator-string_sol\vecrev.cpp
+	"header.h"
+
+1639004656 source:c:\users\user\documents\github\super_puper_calculator\neg_situations.cpp
 	"header.h"
 
