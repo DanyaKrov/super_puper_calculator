@@ -3,11 +3,12 @@
 string subtr(string str1, string str2)
 {
     string ans = "";
+    bool minus = false;
     if (itc_len(str1) < itc_len(str2)){
         string s = str1;
         str1 = str2;
         str2 = s;
-        ans += "-";
+        minus = true;
     }
     str1 = strRev(str1); str2 = normal_str(strRev(str2), itc_len(str1));
     int kol = 0;
@@ -22,5 +23,12 @@ string subtr(string str1, string str2)
             kol = 0;
         }
     }
-    return strRev(ans);
+    if (ans == "0-"){
+        ans = "0";
+        minus = false;
+    }
+    if (minus)
+        return "-" + noZero(strRev(ans));
+    else
+        return noZero(strRev(ans));
 }

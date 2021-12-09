@@ -22,5 +22,7 @@ string subtr(string str1, string str2);
 string itc_slice_str(string str, int start, int end);
 string noZero(string str);
 string neg(string str1, string str2, string oper);
+bool checking_oper(string str);
+void music();
 
 #endif // HEADER_H_INCLUDED
